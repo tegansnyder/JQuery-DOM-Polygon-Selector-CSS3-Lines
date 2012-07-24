@@ -1,0 +1,7 @@
+This is an example I built to see if I could create a polygon selection tool using DOM elements and CSS3 transformations. While this might not be the best way to achieve this effect and is a little rough around the edges I think this could be made into a solid JQuery Plugin with little effort.
+
+Typically this operation will take place using canvas or svg but I wanted to see the performance of doing it using draggable DOM elements.
+
+Works in browsers that support CSS3 transformations.
+
+Fork away my friends!
