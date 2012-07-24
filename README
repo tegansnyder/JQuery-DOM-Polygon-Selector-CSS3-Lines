@@ -1,4 +1,5 @@
 JS Bin Live preview here: http://jsbin.com/afafup/1/
+NOTE: Selector is triggered using RIGHT click of mouse.
 
 This is an example I built to see if I could create a polygon selection tool using DOM elements and CSS3 transformations. While this might not be the best way to achieve this effect and is a little rough around the edges I think this could be made into a solid JQuery Plugin with little effort.
 
